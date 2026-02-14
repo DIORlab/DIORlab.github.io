@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "DIOR Lab"
 title_separator          : "-"
 name                     : &name "DIOR Lab"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yunzhe Liu"
   pronouns         : # example: "she/her"  
-  bio              : "PI of DIOR Lab<br>Urban Analytics & Data Mining"
+  bio              : "PI of DIOR Lab<br>Associate Professor in Computational Social Science"
   location         : "Shanghai, China"
-  employer         : "East China Normal University"
+  employer         : "Institute of Population Research, School of Social Development, East China Normal University"
   uri              : https://faculty.ecnu.edu.cn/_s6/lyz2/main.psp
   email            : "yzliu@soci.ecnu.edu.cn" 
 
